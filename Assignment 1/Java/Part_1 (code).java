@@ -12,7 +12,7 @@ class FibonacciNonRecursive {
  num2 = num3;
  }
  }
- // Driver Code
+ // Main Function
  public static void main(String args[]) {
  int N = 10;
  Fibonacci(N);

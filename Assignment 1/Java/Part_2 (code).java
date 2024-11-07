@@ -6,7 +6,7 @@ class FibonacciRecursive {
  return n;
  return fib(n - 1) + fib(n - 2);
  }
- // Driver Code
+ // Main Function
  public static void main(String args[]) {
  int N = 10;
  for (int i = 0; i < N; i++) {
