@@ -1,4 +1,3 @@
-import java.io.*;
 class FibonacciNonRecursive {
  // Function to print N Fibonacci Numbers
  static void Fibonacci(int N) {

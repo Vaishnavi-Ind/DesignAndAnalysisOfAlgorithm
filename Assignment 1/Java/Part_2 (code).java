@@ -1,4 +1,3 @@
-import java.io.*;
 class FibonacciRecursive {
  // Function to print the Fibonacci series
  static int fib(int n) {
