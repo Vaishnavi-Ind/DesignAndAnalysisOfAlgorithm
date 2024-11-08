@@ -19,7 +19,7 @@ This repository contains a collection of algorithms, data structures, and machin
 
 ## Project Descriptions
 
-### 1. Fibonacci Program (non-recursive and recursive approaches)
+### 1. Fibonacci Program (non-recursive and recursive approaches)[https://github.com/Shriharsh-Deshmukh/DAA-ML-BT-Algo/tree/main/1.%20Fibonacci_Program(non-recursive%2Crecursive)/recursive)]
 A classic algorithm to generate Fibonacci numbers, implemented using both recursive and non-recursive (iterative) methods. This project explores the time complexity and performance differences between the two approaches.
 
 ### 2. Huffman Encoding using a Greedy Strategy
