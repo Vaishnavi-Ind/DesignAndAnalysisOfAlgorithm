@@ -6,7 +6,10 @@ Design and Analysis of Algorithms and Machine Learning code base.
 <a href="https://github.com/Shriharsh-Deshmukh">
   <img src="https://static.vecteezy.com/system/resources/thumbnails/009/305/585/small/download-button-clipart-design-illustration-free-png.png" alt="Repository Overview" width="300"/>
 </a>
-<br><br><br><br>
+<br>
+To download complete all codes
+<br>
+<br><br>
 </div>
 
 
@@ -62,4 +65,4 @@ An unsupervised machine learning model using K-Means clustering applied to sales
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Shriharsh-Deshmukh/DAA-ML-BT-Algo.git
