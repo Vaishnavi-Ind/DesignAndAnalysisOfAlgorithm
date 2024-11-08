@@ -1,2 +1,3 @@
 # DAA-ML-BT-Algo
-Design and Analysis of Algorithms, Machine Learning and Blockchain Technology code base.
+Design and Analysis of Algorithms and Machine Learning code base.
+
