@@ -31,7 +31,7 @@ This repository contains a collection of algorithms, data structures, and machin
 
 ## Project Descriptions
 
-### 1. [Fibonacci Program (non-recursive and recursive approaches)](https://github.com/Shriharsh-Deshmukh/DAA-ML-BT-Algo/tree/main/1.%20Fibonacci_Program(non-recursive%2Crecursive)/recursive)
+### 1. [Fibonacci Program (non-recursive and recursive approaches)](hh)
 A classic algorithm to generate Fibonacci numbers, implemented using both recursive and non-recursive (iterative) methods. This project explores the time complexity and performance differences between the two approaches.
 
 ### 2. [Huffman Encoding using a Greedy Strategy](https://github.com/Shriharsh-Deshmukh/DAA-ML-BT-Algo/tree/main/2.%20%20Huffman%20Encoding%20using%20a%20greedy%20strategy)
