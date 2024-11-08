@@ -3,7 +3,7 @@ Design and Analysis of Algorithms and Machine Learning code base.
 
 <div align="center">
 <br><br>
-<a href="https://github.com/Shriharsh-Deshmukh">
+<a href="https://drive.google.com/uc?export=download&id=1cMKWq1AeqN7EokkKyY-Qw252Czj72d6x">
   <img src="https://static.vecteezy.com/system/resources/thumbnails/009/305/585/small/download-button-clipart-design-illustration-free-png.png" alt="Repository Overview" width="300"/>
 </a>
 <br>
