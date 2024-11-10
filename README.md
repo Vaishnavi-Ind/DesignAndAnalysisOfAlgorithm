@@ -7,7 +7,7 @@ Design and Analysis of Algorithms and Machine Learning code base.
   <img src="https://static.vecteezy.com/system/resources/thumbnails/009/305/585/small/download-button-clipart-design-illustration-free-png.png" alt="Repository Overview" width="300"/>
 </a>
 <br>
-To download complete all codes
+To download all complete codes
   <a href="https://drive.google.com/uc?export=download&id=1MSFfxEQLsUBlzC3pDloh2qQ9xZU1qEr9
 ">‎ ‎ </a>
 <br><br>
