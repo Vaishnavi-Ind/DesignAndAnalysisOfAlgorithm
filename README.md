@@ -8,7 +8,8 @@ Design and Analysis of Algorithms and Machine Learning code base.
 </a>
 <br>
 To download complete all codes
-  <a href="https://drive.google.com/file/d/1MSFfxEQLsUBlzC3pDloh2qQ9xZU1qEr9/view?usp=sharing">‎ ‎ </a>
+  <a href="https://drive.google.com/uc?export=download&id=1MSFfxEQLsUBlzC3pDloh2qQ9xZU1qEr9
+">‎ ‎ </a>
 <br><br>
 </div>
 
