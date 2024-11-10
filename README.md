@@ -62,7 +62,23 @@ A K-Nearest Neighbors (KNN) classifier applied to the Diabetes dataset. This pro
 An unsupervised machine learning model using K-Means clustering applied to sales data. This project includes preprocessing, clustering analysis, and visualization of clusters to understand customer segmentation.
 
 ## How to Run the Projects
+# Linux (Ubuntu) Terminal Commands
 
-1. Clone this repository:
+### Python
+```bash
+python3 code.py
+```
+### C++
+```bash
+g++ code.cpp
+./a.out
+```
+### Java
+```bash
+javac code.java
+java code
+```
+
+### *Clone this repository:*
    ```bash
    git clone https://github.com/Shriharsh-Deshmukh/DAA-ML-BT-Algo.git
