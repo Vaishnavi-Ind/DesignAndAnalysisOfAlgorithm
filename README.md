@@ -8,7 +8,8 @@ Design and Analysis of Algorithms and Machine Learning code base.
 </a>
 <br>
 To download complete all codes
-<br>
+  <a href="https://drive.google.com/uc?export=download&id=1MSFfxEQLsUBlzC3pDloh2qQ9xZU1qEr9
+">‎ ‎ </a>
 <br><br>
 </div>
 
@@ -31,7 +32,7 @@ This repository contains a collection of algorithms, data structures, and machin
 
 ## Project Descriptions
 
-### 1. [Fibonacci Program (non-recursive and recursive approaches)](https://github.com/Shriharsh-Deshmukh/DAA-ML-BT-Algo/tree/main/1.%20Fibonacci_Program(non-recursive%2Crecursive)/recursive)
+### 1. [Fibonacci Program (non-recursive and recursive approaches)](https://github.com/Shriharsh-Deshmukh/DAA-ML-BT-Algo/tree/main/1.%20Fibonacci_Program(non-recursive%2Crecursive))
 A classic algorithm to generate Fibonacci numbers, implemented using both recursive and non-recursive (iterative) methods. This project explores the time complexity and performance differences between the two approaches.
 
 ### 2. [Huffman Encoding using a Greedy Strategy](https://github.com/Shriharsh-Deshmukh/DAA-ML-BT-Algo/tree/main/2.%20%20Huffman%20Encoding%20using%20a%20greedy%20strategy)
@@ -61,8 +62,24 @@ A K-Nearest Neighbors (KNN) classifier applied to the Diabetes dataset. This pro
 ### 10. [K-Means Clustering (Sales Data Sample)](https://github.com/Shriharsh-Deshmukh/DAA-ML-BT-Algo/tree/main/12.%20K-Means%20clustering%20(sales_data_sample.csv))
 An unsupervised machine learning model using K-Means clustering applied to sales data. This project includes preprocessing, clustering analysis, and visualization of clusters to understand customer segmentation.
 
-## How to Run the Projects
+# How to Run the Projects
+## Linux (Ubuntu) Terminal Commands
 
-1. Clone this repository:
+### Python
+```bash
+python3 code.py
+```
+### C++
+```bash
+g++ code.cpp
+./a.out
+```
+### Java
+```bash
+javac code.java
+java code
+```
+
+### *Clone this repository:*
    ```bash
    git clone https://github.com/Shriharsh-Deshmukh/DAA-ML-BT-Algo.git
