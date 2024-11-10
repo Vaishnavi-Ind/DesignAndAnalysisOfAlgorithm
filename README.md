@@ -61,8 +61,8 @@ A K-Nearest Neighbors (KNN) classifier applied to the Diabetes dataset. This pro
 ### 10. [K-Means Clustering (Sales Data Sample)](https://github.com/Shriharsh-Deshmukh/DAA-ML-BT-Algo/tree/main/12.%20K-Means%20clustering%20(sales_data_sample.csv))
 An unsupervised machine learning model using K-Means clustering applied to sales data. This project includes preprocessing, clustering analysis, and visualization of clusters to understand customer segmentation.
 
-## How to Run the Projects
-# Linux (Ubuntu) Terminal Commands
+# How to Run the Projects
+## Linux (Ubuntu) Terminal Commands
 
 ### Python
 ```bash
