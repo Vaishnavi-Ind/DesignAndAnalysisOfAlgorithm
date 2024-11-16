@@ -1,4 +1,4 @@
-# DAA-ML-BT-Algo
+# DAA-ML-BT-Algoz
 Design and Analysis of Algorithms and Machine Learning code base.
 
 <div align="center">
